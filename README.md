@@ -60,24 +60,30 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 | Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
 |----------------|------------------------------|--------------|------------|
-|     800        |                              |              |            |
-|     1k         |                              |              |            |
-|     2k         |                              |              |            |
-|     5k         |                              |              |            |
-|     10k        |                              |              |            |
-|     20k        |                              |              |            |
-|     50k        |                              |              |            |
-|     100k       |                              |              |            |
-|                |                              |              |            |
+|     800        |             2.5 v            |     0.5      |  -6.02     |
+|     1k         |             32 v             |     6.4      |   16.12    |
+|     2k         |             34 v             |     6.8      |   16.65    |
+|     5k         |             36 v             |     7.2      |   17.14    |
+|     10k        |             37 v             |     7.4      |   17.38    |
+|     20k        |             37 v             |     7.4      |   17.38    |
+|     50k        |             37 v             |     7.4      |   17.38    |
+|     100k       |             27 v             |     5.4      |   14.64    |
+|     250k       |             12.7 v           |     2.54     |   8.096    |
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+<img width="880" height="538" alt="Screenshot 2025-11-11 190804" src="https://github.com/user-attachments/assets/25ece563-cf37-448d-8b86-19078ca43f90" />
+
+---
+
+## GRAPH
+
+<img width="1537" height="1270" alt="image" src="https://github.com/user-attachments/assets/baee567c-daba-4296-aeb4-45d135524634" />
 
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Thus, the experiment confirms that the 600 nm fiber optic link exhibits a stable frequency response within its mid-range and shows attenuation at higher frequencies, validating the theoretical characteristics of digital fiber transmission.
