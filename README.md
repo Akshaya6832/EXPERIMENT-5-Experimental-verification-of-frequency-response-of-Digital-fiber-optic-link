@@ -1,4 +1,3 @@
-
 Exp 5 Experimental verification of frequency response of Digital fiber optic link
 # Digital Fiber Optic Link Analysis (600nm)
 
@@ -43,10 +42,9 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ---
 
-
 ## BLOCK DIAGRAM
 
-*(Insert block diagram here)*
+<img width="890" height="529" alt="Screenshot 2025-11-11 192121" src="https://github.com/user-attachments/assets/435b8e26-0b42-493e-9d58-2459aba62701" />
 
 ---
 
@@ -62,6 +60,14 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 | Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
 |----------------|------------------------------|--------------|------------|
+|     800        |                              |              |            |
+|     1k         |                              |              |            |
+|     2k         |                              |              |            |
+|     5k         |                              |              |            |
+|     10k        |                              |              |            |
+|     20k        |                              |              |            |
+|     50k        |                              |              |            |
+|     100k       |                              |              |            |
 |                |                              |              |            |
 
 ---
